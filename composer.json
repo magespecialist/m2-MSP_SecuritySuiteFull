@@ -15,10 +15,8 @@
 
     },
     "type": "magento2-module",
-    "version": "0.1.0",
-    "license": [
-
-    ],
+    "version": "0.1.1",
+    "license": "OSL 3.0",
     "autoload": {
         "files": [
             "registration.php"
