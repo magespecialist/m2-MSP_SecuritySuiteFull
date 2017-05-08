@@ -2,27 +2,11 @@
     "name": "msp/securitysuitefull",
     "description": "",
     "require": {
-        "php": "~5.5.0|~5.6.0|~7.0.0",
-        "msp/common": "*",
-        "msp/securitysuite": "*",
         "msp/adminrestriction": "*",
         "msp/recaptcha": "*",
         "msp/twofactorauth": "*",
-        "msp/userlockout": "*",
-        "magento/magento-composer-installer": "*"
+        "msp/userlockout": "*"
     },
-    "suggest": {
-
-    },
-    "type": "magento2-module",
-    "version": "0.1.3",
-    "license": "OSL 3.0",
-    "autoload": {
-        "files": [
-            "registration.php"
-        ],
-        "psr-4": {
-            "MSP\\SecuritySuiteFull\\": ""
-        }
-    }
+    "type": "metapackage",
+    "license": "OSL 3.0"
 }
