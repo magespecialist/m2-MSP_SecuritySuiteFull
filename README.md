@@ -9,6 +9,7 @@ Includes:
 - User lockout: https://github.com/magespecialist/m2-MSP_UserLockout
 - reCaptcha: https://github.com/magespecialist/m2-MSP_ReCaptcha
 - Admin IP restriction: https://github.com/magespecialist/m2-MSP_AdminRestriction
+- Digest Auth: https://github.com/magespecialist/m2-MSP_Passwd
 
 ## Install procedure
 
