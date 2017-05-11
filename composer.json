@@ -5,7 +5,8 @@
         "msp/adminrestriction": "*",
         "msp/recaptcha": "*",
         "msp/twofactorauth": "*",
-        "msp/userlockout": "*"
+        "msp/userlockout": "*",
+        "msp/passwd": "*"
     },
     "type": "metapackage",
     "license": "OSL 3.0"
